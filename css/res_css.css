@@ -23,19 +23,18 @@ div {
 
 div .contact p {
 	display: inline;
-	padding-right: 30px;
 }
 
 .contact_info {
-	
+	padding-right: 50px;
 }
 
 .ci2 {
-	text-align: center;
+	padding-right: 50px;
 }
 
 .ci3 {
-	text-align: right;
+	
 }
 
 .bold {
