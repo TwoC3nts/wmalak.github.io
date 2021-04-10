@@ -25,11 +25,11 @@ div .contact p {
 	display: inline;
 }
 
-p .contact_info {
+div .contact_info {
 	padding-right: 50px;
 }
 
-p .ci2 {
+div .ci2 {
 	padding-right: 50px;
 }
 
