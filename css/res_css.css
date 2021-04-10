@@ -21,6 +21,10 @@ div {
 	text-align: right;
 }
 
+.contact {
+	display: inline;
+}
+
 .contact_info {
 	
 }
@@ -36,10 +40,6 @@ div {
 .bold {
 	height: 15px;
 	background-color: black;
-}
-
-.bold p {
-	display: inline;
 }
 
 .divisor {
