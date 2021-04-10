@@ -23,6 +23,7 @@ div {
 
 div .contact p {
 	display: inline;
+	padding-right: 30px;
 }
 
 .contact_info {
