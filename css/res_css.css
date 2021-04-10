@@ -17,57 +17,8 @@ html{
 	text-align: right;
 }
 
-.contact_info p{
-	padding: 10px 550px;
-}
-
 .contact_info {
-	padding: 0px 220px;
-}
-
-.c1 {
-	padding: 0px 180px;
-}
-
-.c2 {
-	padding: 0px 180px;
-}
-
-.p1 {
-	position: relative;
-	margin-top: -70px;
-	margin-left: 460px;
-}
-
-.p2 {
-	position: relative;
-	margin-top: -70px;
-	margin-left: 610px;
-}
-
-.p3 {
-	position: relative;
-	margin-top: 0px;
-	margin-left: 612px;
-}
-
-.p4 {
-	position: relative;
-	margin-top: -30px;
-	margin-left: 845px;
-}
-
-.p5 {
-	position: relative;
-	margin-top: -70px;
-	margin-left: 1000px;
-}
-
-.p6 {
-	position: relative;
-	margin-top: -15px;
-	margin-left: 960px;
-	padding: 20px 0px;
+	padding: 10px 550px;
 }
 
 .bold {
