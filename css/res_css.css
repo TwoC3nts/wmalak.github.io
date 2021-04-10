@@ -38,6 +38,10 @@ div {
 	background-color: black;
 }
 
+.bold p {
+	display: inline;
+}
+
 .divisor {
 	height: 8px;
 	background-color: black;
