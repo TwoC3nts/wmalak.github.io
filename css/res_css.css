@@ -56,6 +56,11 @@ p.ci3 {
 	background-color: black;
 }
 
+.res_nav a {
+	padding-right: 30px;
+	padding-left:15px;
+}
+
 /*summary section css*/
 .s_title {
 	padding: 0px 550px
