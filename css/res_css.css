@@ -97,12 +97,13 @@ div.exp2 {
 ul.sk_con {
 	padding-left: 107px;
 }
-ul.sk_con_2 {
+section.skills ul.sk_con_2 {
 	position: relative;
 	margin-top: -90px;
 	margin-left: 736px;
 	
 }
+
 /*pdf section css*/
 section.pdf {
 	padding-left: 555px;
