@@ -25,15 +25,24 @@ div .contact p {
 	display: inline;
 }
 
-div .contact_info {
+div .contact  {
+	padding-right:30px;
+	padding-left: 150px;
+}
+
+p.divide {
+	padding-right: 30px;
+}
+
+p.contact_info {
 	padding-right: 50px;
 }
 
-div .ci2 {
+p.ci2 {
 	padding-right: 50px;
 }
 
-.ci3 {
+p.ci3 {
 	
 }
 
