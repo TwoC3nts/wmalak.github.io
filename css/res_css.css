@@ -68,7 +68,7 @@ a.res_link {
 }
 
 /*section one css*/
-div.section_1 {
+div.section_1 section{
 	display: inline;
 }
 .s_title {
