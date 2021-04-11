@@ -68,8 +68,40 @@ a.res_link {
 }
 
 /*section one css*/
-.s_title {
-	padding: 0px 550px
+section.summary h2 {
+	display: inline;
+	padding-left: 350px;
+}
+
+.s_con {
+	padding-right: 50px;
+	padding-left: 100px;
+	width: 500px;
+}
+
+p.ed_con {
+	position: relative;
+    margin-top: -89px;
+    margin-left: 760px;
+}
+p.ed_con2 {
+	position: relative;
+    margin-left: 760px;
+}
+/*section two css*/
+section.skills h2 {
+	display: inline;
+	padding-left: 350px;
+}
+div.exp {
+	width: 500px;
+    padding-left: 95px;
+}
+div.exp2 {
+	position: relative;
+    margin-top: -185px;
+    margin-left: 750px;
+    width: 500px;
 }
 
 /*the following code is integrated from https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp#:~:text=Example%20Explained,dropdown%20menu%20correctly%20with%20CSS.*/
