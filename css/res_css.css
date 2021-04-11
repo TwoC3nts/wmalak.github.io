@@ -67,7 +67,10 @@ a.res_link {
 	color: black;
 }
 
-/*summary section css*/
+/*section one css*/
+div.section_1 {
+	display: inline;
+}
 .s_title {
 	padding: 0px 550px
 }
