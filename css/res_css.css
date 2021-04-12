@@ -15,6 +15,10 @@ div {
 }
 
 /*header text styling*/
+.page_title {
+	text-align: right;
+	font-size: 40px;
+}
 .title {
 	font-family: Montserrat;
 	font-size: 50px;
@@ -81,7 +85,7 @@ p.ed_con2 {
 /*section two css*/
 section.skills h2 {
 	display: inline;
-	padding-left: 600px;
+	padding-left: 575px;
 }
 div.exp {
 	width: 500px;
@@ -91,7 +95,7 @@ div.exp2 {
 	position: relative;
     margin-top: -185px;
     margin-left: 750px;
-    width: 500px;
+    width: 440px;
 }
 /*section 3 css*/
 ul.sk_con {
