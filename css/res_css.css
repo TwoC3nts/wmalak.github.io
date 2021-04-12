@@ -61,6 +61,11 @@ p.ci3 {
 	background-color: black;
 }
 
+p.res_link {
+	display: inline;
+	padding-left: 130px;
+}
+
 /*section one css*/
 section.summary h2 {
 	display: inline;
@@ -85,7 +90,7 @@ p.ed_con2 {
 /*section two css*/
 section.skills h2 {
 	display: inline;
-	padding-left: 575px;
+	padding-left: 695px;
 }
 div.exp {
 	width: 500px;
