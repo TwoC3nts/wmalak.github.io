@@ -17,6 +17,8 @@ nav ul li {
 html{
 	background-color: black;
 	padding-left: 130px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 div {
