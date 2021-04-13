@@ -1,7 +1,4 @@
 /*general/resume page styling*/
-li {
-	font-family: Montserrat;
-}
 h3 {
 	font-size: 1.5em;
 	font-family: 'Montserrat', sans-serif;
@@ -27,7 +24,7 @@ div {
 
 .page {
 	background-color: white;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 /*header text styling*/
@@ -157,7 +154,6 @@ section.pdf {
 	text-align: center;
 	padding: 0px 250px;
 	text-decoration: none;
-	font-family: 'Montserrat', sans-serif;
 }
 
 .dropdown {
