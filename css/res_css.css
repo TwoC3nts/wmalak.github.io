@@ -16,6 +16,7 @@ nav ul li {
 
 html{
 	background-color: black;
+	padding-left: 130px;
 }
 
 div {
@@ -25,6 +26,7 @@ div {
 .page {
 	background-color: white;
 	font-family: 'Roboto', sans-serif;
+	width: 1200px;
 }
 
 /*header text styling*/
@@ -186,8 +188,8 @@ p.y_info {
 div.image {
 	width: 300px;
 	height: 300px;
-	position: relative;
-    margin-top: -327px;
+	position: absolute;
+    margin-top: -370px;
     margin-left: 125px;
 }
 img {
