@@ -4,12 +4,14 @@ li {
 }
 h3 {
 	font-size: 1.5em;
+	font-family: 'Montserrat', sans-serif;
 }
 h1.title {
 	padding-right: 50px;
 }
 h2.page_title {
 	padding-right: 50px;
+	font-family: 'Montserrat', sans-serif;
 }
 nav ul li {
 	display: inline;
@@ -25,6 +27,7 @@ div {
 
 .page {
 	background-color: white;
+	font-family: 'Montserrat', sans-serif;
 }
 
 /*header text styling*/
@@ -33,7 +36,7 @@ div {
 	font-size: 40px;
 }
 .title {
-	font-family: Montserrat;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 50px;
 	text-align: right;
 }
@@ -95,7 +98,7 @@ section.summary h3 {
 
 p.ed_con {
 	position: relative;
-    margin-top: -89px;
+    margin-top: -90px;
     margin-left: 760px;
 }
 p.ed_con2 {
@@ -113,7 +116,7 @@ div.exp {
 }
 div.exp2 {
 	position: relative;
-    margin-top: -194px;
+    margin-top: -195px;
     margin-left: 750px;
     width: 440px;
 }
@@ -154,6 +157,7 @@ section.pdf {
 	text-align: center;
 	padding: 0px 250px;
 	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .dropdown {
