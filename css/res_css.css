@@ -1,4 +1,7 @@
 /*general/resume page styling*/
+li {
+	font-family: Montserrat;
+}
 h3 {
 	font-size: 1.5em;
 }
@@ -33,7 +36,6 @@ div {
 	font-family: Montserrat;
 	font-size: 50px;
 	text-align: right;
-	padding: 0px 0px 0px 0px;
 }
 
 div .contact p {
@@ -75,6 +77,9 @@ p.res_link {
 	display: inline;
 	padding-left: 130px;
 }
+p.res_link a {
+	color: black;
+}
 
 /*section one css*/
 section.summary h3 {
@@ -108,10 +113,17 @@ div.exp {
 }
 div.exp2 {
 	position: relative;
-    margin-top: -185px;
+    margin-top: -194px;
     margin-left: 750px;
     width: 440px;
 }
+p.ta {
+	font-size: 1.2em;
+}
+p.cfa {
+	font-size: 1.2em;
+}
+
 /*section 3 css*/
 ul.sk_con {
 	padding-left: 107px;
@@ -133,7 +145,6 @@ section.pdf {
 .navbar {
   overflow: hidden;
   background-color: white;
-  font-family: Montserrat;
 }
 
 .navbar a {
